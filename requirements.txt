@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+gymnasium>=0.26
+jupyter>=1.0
+
+# Optional: only needed for notebooks/minigrid_experiments.ipynb
+# minigrid>=2.3

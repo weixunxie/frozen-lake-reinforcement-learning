@@ -1,3 +1,9 @@
+# Generated results (figures and tables are produced by running the notebooks)
+results/figures/*
+results/tables/*
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
